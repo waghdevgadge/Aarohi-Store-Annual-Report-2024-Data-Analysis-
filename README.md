@@ -10,3 +10,12 @@ This project performs an in-depth analysis of Aarohi Store's annual sales data, 
 - Amazon, Flipkart, and Myntra ... etcemerging as the top three platforms driving sales
 
 This project offers a data-driven perspective on Aarohi Store's sales performance, highlighting areas of strength and opportunities for growth.
+
+Insights:
+-Women are more likely to buy comapared to me (65%)
+-Maharashtra, Karnataka, and Uttar Pradesh are top 3 states (35%)
+-Adult age group (30-49 yrs) is max contributing (50%)
+-Amazon, Flipkart and Myntra channels are max contributing (80%)
+
+Final Conclusion to improve Aarohi Store sales:
+Target Women customers of age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and myntra 
